@@ -1,0 +1,6 @@
+{
+  "name": "СмартКарт - Умный список покупок",
+  "description": "Умный помощник для походов в магазин с автоматической категоризацией товаров, расчетом бюджета, рецептами и голосовым вводом на русском языке.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
